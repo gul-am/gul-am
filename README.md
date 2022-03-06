@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gul-amd
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning quasar
-- 💞️ I’m looking to collaborate on avaleble projects
+- 💞️ I’m looking to collaborate on available projects
 - 📫 How to reach me +258868884888
 
 <!---

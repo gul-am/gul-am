@@ -6,7 +6,7 @@
 - [x] - Laravel
 - [ ] - ...
 
-- Thank you
+Thank you
 
 
 <!---

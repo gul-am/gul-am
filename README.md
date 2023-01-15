@@ -8,7 +8,7 @@
 
 #### Projects ongoing 
 - [x] - Do buy 24/7
-- [x] - Ekkay Management System (EMS)
+- [x] - Ekkae Stores Management System (ESMS)
 - [x] - VisibolMark website 
 - [x] - Calculator online
 - [x] - IMEI Chest
@@ -23,12 +23,12 @@
 - [x] - Vue.js
 - [x] - Quasar
 - [x] - Laravel
-- [x] - SpringBoot
+- [ ] - SpringBoot
 - [ ] - Mongo DB
 - [x] - MySql
 - [x] - SQL
 - [x] - PostgreeSQL
-- [x] - & I know how to trick a code 🥱🤐
+- [x] - & I know how to trick a bug 🥱🤐
 - [ ] - ... opened for more dev stuff, opportunities and challenges 
 
 #### Did you know 😏
@@ -37,6 +37,6 @@ Coffee is a drink prepared from roasted coffee beans. Darkly colored, bitter, an
 Thank you
 
 <!---
-gul-amd-moz/gul-amd-moz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+gul-am/gul-am is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

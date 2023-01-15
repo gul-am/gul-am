@@ -24,6 +24,7 @@
 - [x] - Quasar
 - [x] - Laravel
 - [ ] - SpringBoot
+- [ ] - WordPress 
 - [ ] - Mongo DB
 - [x] - MySql
 - [x] - SQL

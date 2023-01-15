@@ -1,9 +1,19 @@
 ### Hi 👋, I’m Gulamo ###
 
-- Im working with below tools
+A freelancer Software Engineer that is moved by curiosity.
+A salfe maden Backend developer ( work in progress )
+And i can centralize a DIV when needed...
+
+- I do work with below tools, framework and development language 
 - [x] - Java
 - [x] - Quasar
 - [x] - Laravel
+- [x] - Vue.js
+- [x] - PHP
+- [x] - MySql
+- [x] - SQL
+- [x] - PostgreeSQL
+- [x] - SpringBoot
 - [ ] - ...
 
 Thank you

@@ -1,20 +1,30 @@
+![Gulamo Amade](https://github.com/gul-am/gul-am/blob/main/githubprotofolio.png)
+
 ## Hi 👋, I’m Gulamo Amade ##
 
 - A freelancer Software Engineer that is moved by curiosity.
 - A salfe maden Backend developer ( work in progress )
 - And i can centralize a DIV when needed 🤣
 
-*I do mess with the the following tools, framework and dev language's 
+#### Projects ongoing 
+- [x] - Do buy 24/7
+- [x] - Ekkay Management System (EMS)
+- [x] - VisibolMark website 
+- [x] - Calculator online
+- [x] - IMEI Chest
+- [ ] - ... Looking for more challegs
+
+#### I do mess with the the following tools, framework and dev language's 
 - [x] - Java
-- [x] - PHP
+- [ ] - PHP
 - [x] - Node.js
 - [x] - Express.js
-- [x] - Angular
+- [ ] - Angular
 - [x] - Vue.js
 - [x] - Quasar
 - [x] - Laravel
 - [x] - SpringBoot
-- [x] - Mongo DB
+- [ ] - Mongo DB
 - [x] - MySql
 - [x] - SQL
 - [x] - PostgreeSQL

@@ -8,13 +8,14 @@
 
 #### Projects ongoing 
 - [x] - Do buy 24/7
+- [x] - Inventracer
 - [x] - Ekkae Stores Management System (ESMS)
 - [x] - VisibolMark website 
 - [x] - Calculator online
 - [x] - IMEI Chest
 - [ ] - ... Looking for more challegs
 
-#### I do mess with the the following tools, framework and dev language's 
+#### I do mess with the the following tools, framework's and dev language's 👨‍💻
 - [x] - Java
 - [ ] - PHP
 - [x] - Node.js
@@ -24,7 +25,7 @@
 - [x] - Quasar
 - [x] - Laravel
 - [ ] - SpringBoot
-- [ ] - WordPress 
+- [x] - WordPress 
 - [ ] - Mongo DB
 - [x] - MySql
 - [x] - SQL

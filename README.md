@@ -3,8 +3,8 @@
 ## Hi 👋, I’m Gulamo Amade ##
 
 - A freelancer Software Engineer that is moved by curiosity.
-- A salfe maden Backend developer ( work in progress )
-- And i can centralize a DIV when needed 🤣
+- A self made Backend developer ( work in progress ).
+- I can centralize a DIV when needed... I guess, I'm fullstack developer  🤣
 
 #### Projects ongoing 
 - [x] - Do buy 24/7

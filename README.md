@@ -2,9 +2,10 @@
 
 ## Hi 👋, I’m Gulamo Amade ##
 
-- A freelancer Software Engineer that is moved by curiosity.
+- A freelancer Software Developer that is moved by curiosity.
 - A self made Backend developer ( work in progress ).
 - I can centralize a DIV when needed... I guess, I'm fullstack developer  🤣
+- Engineer Degree on the way 👨‍🎓
 
 #### Projects ongoing 
 - [x] - Do buy 24/7

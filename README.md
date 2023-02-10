@@ -19,8 +19,6 @@
 #### I do mess with the the following tools, framework's and dev language's 👨‍💻
 - [x] - Java
 - [ ] - PHP
-- [x] - Node.js
-- [x] - Express.js
 - [ ] - Angular
 - [x] - Vue.js
 - [x] - Quasar
@@ -30,9 +28,9 @@
 - [ ] - Mongo DB
 - [x] - MySql
 - [x] - SQL
-- [x] - PostgreeSQL
+- [ ] - PostgreeSQL
 - [x] - & I know how to trick a bug 🥱🤐
-- [ ] - ... opened for more dev stuff, opportunities and challenges 
+- [ ] - ... open for more dev stuff, opportunities and challenges 
 
 #### Did you know 😏
 Coffee is a drink prepared from roasted coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans, primarily due to its caffeine content. It is the most popular hot drink in the world. So, Would be a pleasure if you could [Buy me a Coffee](https://www.buymeacoffee.com/gul.amd) ☕ 
